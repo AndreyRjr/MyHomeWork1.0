@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ARArrayTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2024-06-03T18:22:34" hostname="MacBook-Pro-Andrey.local" time="0.016">
+  <properties/>
+  <testcase name="testWithStrings()" classname="ARArrayTest" time="0.011"/>
+  <testcase name="testAdd()" classname="ARArrayTest" time="0.001"/>
+  <testcase name="testGet()" classname="ARArrayTest" time="0.0"/>
+  <testcase name="testClear()" classname="ARArrayTest" time="0.0"/>
+  <testcase name="testSort()" classname="ARArrayTest" time="0.001"/>
+  <testcase name="testAddToIndex()" classname="ARArrayTest" time="0.001"/>
+  <testcase name="testWithDoubleValues()" classname="ARArrayTest" time="0.0"/>
+  <testcase name="testDelete()" classname="ARArrayTest" time="0.0"/>
+  <testcase name="testUpdate()" classname="ARArrayTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
